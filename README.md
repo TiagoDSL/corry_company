@@ -83,7 +83,7 @@ The strategy dashboard was developed using the metrics that reflect the 3 main v
 
 ## The final product of the project
 - Online dashboard, hosted in a Cloud and available for access from any internet connected device.
-The panel can be accessed through this link: 
+The panel can be accessed through this link: https://tiago-curry-company-project-home-iafxzw.streamlit.app/
 
 ## Conclusion
 - The goal of this project is to create a set of graphs and tables that display these metrics to best help the CEO's decision making.
@@ -178,7 +178,7 @@ Cada visão é representada pelo seguinte conjunto de métricas:
 
 ## O produto final do projeto
 - Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
-O painel pode ser acessado através desse link: 
+O painel pode ser acessado através desse link: https://tiago-curry-company-project-home-iafxzw.streamlit.app/
 
 ## Conclusão
 - O objetivo desse projeto é criar um conjunto de gráficos e tabelas que exibam essas métricas que ajudem da melhor forma possível a tomada de decisão do CEO.
