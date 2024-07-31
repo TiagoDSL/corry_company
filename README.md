@@ -1,6 +1,6 @@
-Este projeto de Análise de Dados foi criado com os estudos na Comunidade DS, a fim de aprender a utilizar o python para análise de dados.
+## Projeto de Análise de Dados 
 
-## O Problema de negócio
+## Problema de negócio
 
   A Cury Company é uma empresa de tecnologia que criou um aplicativo que conecta restaurantes, entregadores e pessoas.
 Através desse aplicativo, é possível realizar o pedido de uma refeição, em qualquer restaurante cadastrado, e recebê-lo no conforto da sua casa por um entregador também cadastrado no aplicativo da Cury Company.
