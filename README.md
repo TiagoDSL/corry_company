@@ -84,7 +84,7 @@ Cada visão é representada pelo seguinte conjunto de métricas:
 
 ## O produto final do projeto
 - Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
-O painel pode ser acessado através desse link: https://tiago-curry-company-project-home-iafxzw.streamlit.app/
+O painel pode ser acessado através desse link: https://tiagodsl-corry-company-analytcs-home-kowloc.streamlit.app
 
 ## Conclusão
 - O objetivo desse projeto é criar um conjunto de gráficos e tabelas que exibam essas métricas que ajudem da melhor forma possível a tomada de decisão do CEO.
